@@ -2,4 +2,5 @@ Flask
 sklearn
 pandas
 numpy
-matplotlibp
+matplotlib
+gunicorn
